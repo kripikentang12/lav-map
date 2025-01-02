@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "Ibukota_Kabupaten",
+"features": [
+{ "type": "Feature", "properties": { "FCODE": null, "NAMOBJ": "Wanggudu", "ALIAS": null, "LOKTPN": null, "REMARK": "Ibukota Kabupaten", "KLSTPN": null, "SRS_ID": null, "LCODE": null, "METADATA": null, "FTYPE": null, "LAT": 0.0, "LON": 0.0, "KOORDY": 0.0, "KOORDX": 0.0, "KOORDINAT1": null, "KORDINTAT2": null, "LUAS": 0.0, "Elevasi": 0.0, "NAMLOK": null, "NAMSPE": null, "NAMMAP": null, "NAMGAZ": null, "SJHNAM": null, "ARTINAM": null, "ASLBHS": null, "WADMKD": null, "WIADKD": null, "WADMKC": null, "WIADKC": null, "WADMKK": null, "WIADKK": null, "WADMPR": null, "WIADPR": null, "TIPADM": 0, "STATUS": null }, "geometry": { "type": "Point", "coordinates": [ 122.111209785994021, -3.512150516985783, 0.0 ] } }
+]
+}
