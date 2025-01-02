@@ -3,7 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\MapController;
 
-Route::get('/welcome', function () {
+Route::get('/', function () {
     return view('welcome');
 });
 
@@ -12,6 +12,6 @@ Route::get('/map', function () {
     return view('map');
 });
 
-Route::get('/', [MapController::class, 'index']);
+//Route::get('/', [MapController::class, 'index']);
 Route::get('/getFiles', [MapController::class, 'getFiles']);
 Route::get('/getFile', [MapController::class, 'getFile']);
