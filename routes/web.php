@@ -9,7 +9,7 @@ Route::get('/', function () {
 
 Route::get('/data.json', [MapController::class, 'getGeoJson']);
 Route::get('/map', function () {
-    return view('map');
+    return view('map-old');
 });
 
 //Route::get('/', [MapController::class, 'index']);
